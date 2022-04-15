@@ -13,7 +13,10 @@ The snake game using computer vision that detects user's hand gestures for the m
 3. After activating the virtual enviornment, redirect to project base directory.
 4. Run the following command for installing dependencies. 
   ```
-  $ pip install -r requirements.txt
+  $ pip install cvzone
+  ```
+  ```
+  $ pip install mediapipe
   ```
 5. Run the project using following command-
   ```
